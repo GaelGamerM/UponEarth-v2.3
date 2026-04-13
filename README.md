@@ -5,9 +5,10 @@ UponEarth: Jogo v2.3
 ***
 > ### 1. Baixe o UponEarth.zip
 > ### 2. Extraia-o.
-> ### 3. Executa o .exe (NÃO APAGA O .win E O .ini PFV!!!)
+> ### 3. Executa o .exe (NÃO APAGA O .win E O .ini PFV!!!).
 ***
 - project.zip:
 ***
 > ### 1. Instale o GameMaker: https://gamemaker.io/en/download
 > ### 2. Clique em Importar Projeto e selecione este (lembre-se de descompactar, é a pasta).
+> ### 3. Abra o projeto e pressione [F5]  ou Executar e jogue.
