@@ -10,4 +10,4 @@ UponEarth: Jogo v2.3
 - project.zip:
 ***
 1. Instale o GameMaker: https://gamemaker.io/en/download
-2. 2. Clique em Importar Projeto e selecione este.
+2. Clique em Importar Projeto e selecione este.
